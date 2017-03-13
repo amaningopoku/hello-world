@@ -1,2 +1,2 @@
 # hello-world
-This is where all my programs go
+Hi I am prince. A newbie in programming. Specifically python.
